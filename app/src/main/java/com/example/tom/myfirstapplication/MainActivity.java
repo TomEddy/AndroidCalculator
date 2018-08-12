@@ -11,7 +11,7 @@ import android.view.MenuItem;
 
 public class MainActivity extends AppCompatActivity {
 
-    //Boolean that keeps track if the user has just hit the clear button on the application. This is used to restrict unwanted inputs.
+    //Boolean that keeps track if the user has just hit the clear button on the application. This is used to restrict unwanted inputs!
     private boolean cleared;
     //Boolean that keeps track if the user has just hit the percentage button on the application. This is used to restrict unwanted inputs.
     private boolean percentage = false;
